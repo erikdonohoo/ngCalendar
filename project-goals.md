@@ -18,5 +18,14 @@ Should be able to swap a new theme in easily
 #### mobile friendly
 Components should work well on touch devices and on various screen sizes
 
+#### performant
+Should be fast and optimize manipulations to the DOM as well as other expensive operations
+
+#### angular 2.0 support
+Should support angular 2.0 from the start
+
+#### support latest toolchain
+Use gulp instead of grunt to be better prepared for the future
+
 ---
 *More to come*
