@@ -1,0 +1,35 @@
+{
+  "name": "ngCalendar",
+  "version": "1.0.4",
+  "authors": [
+    "Erik Donohoo <erikdonohoo@gmail.com>",
+    "John Woodruff <johnwoodruff91@gmail.com>"
+  ],
+  "description": "datepicker and calendar homemade for angularjs",
+  "main": "dist/ng-calendar.js",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.2.0",
+    "angular-scenario": "^1.2.0"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "datepicker",
+    "calendar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "karma.conf.js",
+    "Gruntfile.js",
+    "module.*"
+  ]
+}

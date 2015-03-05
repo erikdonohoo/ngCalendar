@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "0.10"
+before_script:
+  - "npm install -g bower"
+  - "bower instal"
+addons:
+  code_climate:
+    repo_token: ?
+after_script:
+  - cat coverage/lcov/lcov.info | codeclimate
