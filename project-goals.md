@@ -22,10 +22,10 @@ Components should work well on touch devices and on various screen sizes
 Should be fast and optimize manipulations to the DOM as well as other expensive operations
 
 #### angular 2.0 support
-Should support angular 2.0 from the start
+Should anticipate angular2.0 and support it early
 
 #### support latest toolchain
-Use gulp instead of grunt to be better prepared for the future
+Use gulp instead of grunt to be better prepared for the future, written in es6
 
 ---
 *More to come*
